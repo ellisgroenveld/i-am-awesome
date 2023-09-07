@@ -1,0 +1,16 @@
+body {
+    background-image:url(https://media.tenor.com/2LQOdHCrA0YAAAAd/jo-bonten-surival-expert-jo-bonten.gif);
+    background-size:contain;
+}
+
+h1 {
+    color: blueviolet;
+}
+
+p#para1 {
+    background-color: aqua;
+}
+
+p.intra {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
